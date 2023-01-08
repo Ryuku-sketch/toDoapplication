@@ -1,7 +1,3 @@
-# Free-IdeaCenter (Our team name: you can suggest any name!) (Temporary)
-Enrich your skills through projects. Being better version of your self!!
-
-
 # wbsapp
 
 Description: Handle your tasks with your instinct (without thinking deeply)
