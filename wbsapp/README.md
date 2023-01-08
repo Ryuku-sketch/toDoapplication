@@ -15,9 +15,3 @@ Target: Android Phone / iPhone
 
 Let's get started !!
 
-# Team Member - Role 
-Tyson - Project Manager
-Tune - Engineer
-Yahachi - Engineer
-Ryuku - Engineer
-(Role can be different depending on the project. If you want to get a certain role in the project, just raise your hands and declear your role!!)
